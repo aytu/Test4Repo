@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp4
 {
-    class Program
+    class FirstClass
     {
-        static void Main(string[] args)
-        {
-            //test
-        }
     }
 }
